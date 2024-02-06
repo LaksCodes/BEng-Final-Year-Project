@@ -1,0 +1,37 @@
+##resolution
+
+ResolutionWidth-640
+ResolutionHeight-480
+
+#2handmode
+TwoHandMode-False
+
+#Appearance
+ShowLandmarks-True
+ShowFPS-True
+##Advanced
+ShowBoundaryBox-True
+ShowClosedHandBox-True
+
+##Hot hands (Shortcuts)
+Shortcut1-alt+tab
+Shortcut2-ctrl+shift
+Shortcut3-F11
+Shortcut4-F2
+Shortcut5-Not yet set
+
+#Mouse
+
+MainMouseFinger-4
+SecondaryMouseFinger-8
+RightClickFinger-12
+ScrollFinger-16
+
+MouseTrackFrame-120
+
+AllScreenMode-False
+
+#Media
+
+VolumeIncrements-5
+ShowVolumeBar-True
