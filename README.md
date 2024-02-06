@@ -1,6 +1,6 @@
 # Hand Gesture Controlled Interface
 
-![Alt text](/images/MainGUIss.png)
+![Alt text](/images/mainGUIss.png)
 
 ## Overview
 
