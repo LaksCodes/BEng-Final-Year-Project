@@ -1,6 +1,6 @@
 # Hand Gesture Controlled Interface
 
-![Alt text](/images/mainGUIss.png)
+![Alt text](/images/MainGUIss.png)
 
 ## Overview
 
@@ -33,10 +33,13 @@ This project implements a hand gesture-controlled interface using MediaPipe for 
 2. Run the application.
 3. Use hand gestures to control the interface.
 4. Explore different modes like mouse control, keyboard input, media keys, and speech-to-text.
+5. You can customise how you want the recognition to act, which is your dominant hand etc all by first running the OpenSettings.py file and saving the settings once desired changes have been made
+6. To start the software run the Real-Time-HTI.py file after maybe a slow delay you should see the software pop up.
+7. Using your fingers and selection method you've set from the settings select one of the icons at the top to perform that task.
 
 ## Screenshots
 
-![Settings](images/settingsGUIss.png)
+![Settings](images/SettingsGUIss.png)
 
 ![Volume Control](images/VolumeControlss.png)
 
